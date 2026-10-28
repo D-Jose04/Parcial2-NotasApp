@@ -1,0 +1,5 @@
+node_modules/ 
+NotasApp/.gradle/ 
+NotasApp/build/ 
+NotasApp/app/build/ 
+NotasApp/local.properties 
